@@ -1,0 +1,8 @@
+prefix=/home/alessio/workspaces/devel
+
+Name: turtlesim
+Description: Description of turtlesim
+Version: 0.7.1
+Cflags: -I/home/alessio/workspaces/devel/include
+Libs: -L/home/alessio/workspaces/devel/lib 
+Requires: geometry_msgs message_runtime std_msgs std_srvs

@@ -1,0 +1,12 @@
+-I/home/alessio/workspaces/devel/include
+-I/home/alessio/workspaces/src/turtlesim/include
+-I/opt/ros/kinetic/include
+-I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include
+-I/usr/include
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="turtlesim"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/alessio/workspaces/build/turtlesim/include/turtlesim/moc_turtle_frame.cpp
+/home/alessio/workspaces/src/turtlesim/include/turtlesim/turtle_frame.h
