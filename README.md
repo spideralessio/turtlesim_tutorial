@@ -1,8 +1,10 @@
-# turtlesim_tutorial
+turtlesim_tutorial
+==================
 First Homework for Laboratorio di Intelligenza Artificiale e Grafica interattiva.
 
 
-#USAGE:
+USAGE:
+------
 In the repo's root run
 $ source /opt/ros/kinetic/setup.bash
 $ catkin_make
