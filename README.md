@@ -5,16 +5,16 @@ First Homework for Laboratorio di Intelligenza Artificiale e Grafica interattiva
 
 USAGE:
 ------
-In the repo's root run:<br>
-`$ source /opt/ros/kinetic/setup.bash<br>
-$ catkin_make`<br>
+In the repo's root run:
+- `$ source /opt/ros/kinetic/setup.bash`
+- `$ catkin_make`
 
-Open ~/.bashrc and add:<br>
-`source [path-to-the-cloned-repo]/devel/setup.bash`<br>
+Open ~/.bashrc and add:
+- `source [path-to-the-cloned-repo]/devel/setup.bash`
 
-In the repo' root run each command in a different terminal tab:<br>
-`$ roscore<br>
-$ rosrun turtlesim turtlesim_node<br>
-$ rosrun turtlesim turtle_teleop_key<br>
-$ rosrun turtlesim tutorial_delete_cicle<br>
-$ rosrun turtlesim tutorial_draw_circle [NUMBER OF CIRCLES]`<br>
+In the repo' root run each command in a different terminal tab:
+- `$ roscore`
+- `$ rosrun turtlesim turtlesim_node`
+- `$ rosrun turtlesim turtle_teleop_key`
+- `$ rosrun turtlesim tutorial_delete_cicle`
+- `$ rosrun turtlesim tutorial_draw_circle [NUMBER OF CIRCLES]`
