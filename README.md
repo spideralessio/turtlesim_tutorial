@@ -6,11 +6,13 @@ First Homework for Laboratorio di Intelligenza Artificiale e Grafica interattiva
 USAGE:
 ------
 In the repo's root run:
+- `$ rm -rf build/ devel/ src/CMakeLists.txt`
 - `$ source /opt/ros/kinetic/setup.bash`
+- `$ catkin_init_workspace src`
 - `$ catkin_make`
 
 Open ~/.bashrc and add:
-- `source [path-to-the-cloned-repo]/devel/setup.bash`
+- `source [path-to-the-cloned-repo-root]/devel/setup.bash`
 
 In the repo' root run each command in a different terminal tab:
 - `$ roscore`
